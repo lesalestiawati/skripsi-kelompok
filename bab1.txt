@@ -2,3 +2,6 @@ BAB 1 PENDAHULUAN
 
 A. LATAR BELAKANG
 Di era 4.0 ini teknologi sudah semakian pesat perkembangannya, seolah teknologi sudah menjadi asupan sehari-hari bagi setiap orang. Perkembangan teknologi yang begitu pesat membuat kita terus belajar mengenai teknologi. Di era 4.0 ini generasi muda dituntut untuk paham mengenai teknologi. Di dunia industri pun karir yang sedang melambung tinggi dan eksis adalah bidang Teknologi Informasi.
+
+B. IDENTIFIKASI MASALAH
+  - Belum pernah dilakukan evaluasi terhadap website saat ini
