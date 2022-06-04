@@ -2,14 +2,18 @@ BAB II LANDASAN TEORI
 
 A. TINJAUAN PUSTAKA
 1) Menurut xxxxx VCS adalah sebuah sistem yang dapat menyimpan histrori perubahan pada suatu source code.
-1) Rumusan Masalah
+2) Menurut xxxxxxx
 
 B. KERANGKA PEMIKIRAN
 1) Rumusan Masalah
 2) Kesimpulan 
+3) Saran
+
+C. DAFTAR PUSTAKA
+3) Saran
 
 
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
