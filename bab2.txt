@@ -4,6 +4,7 @@ A. TINJAUAN PUSTAKA
 1) Menurut xxxxx VCS adalah sebuah sistem yang dapat menyimpan histrori perubahan pada suatu source code.
 1) Rumusan Masalah
 B. KERANGKA PEMIKIRAN
+1) Rumusan Masalah
 
 
 
